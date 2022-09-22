@@ -28,4 +28,12 @@
 
 #  INSIGHTS -
  
+* There is positive relationship between Sales_Amount and Discount_amount , we can see the Discount_amount increase as Sales_amount increase.
+* Between Sales_cost_amount and Sales_amount there is positive relationship we can see sales_amount increases as sales_cost_amount increase.
+* There is positive Correlation between Sales_Amount and Sales_margin_amount , we can see the Sales_margin_amount increase as Sales_amount increase which is quite   obvious.
+* Between Sales_Rep and Sales_Quantity there is no relationship.
+* 'Ebony Squash' is having the highest Sales_Amount that is 5377848.64 among the all other items and 'Nationeel BBQ Potato Chips' is having the lowest Sales_amount that is 200.55 among all other items.
+* The'Big Time Frozen Cheese Pizza' item is having the maximum sales_margin_amount(profit) that is 2826772.99 and 'Carlson Mild Cheddar Cheese' item is having the lowest profit that is -908.45.
+* 'Big Time Frozen Cheese Pizza' item is Contains the highest Discount_amount that is 5978925 and 'Even Better Havarti Cheese' item Contains the lowest discount_amount that is -112512.0300.
+* The Item 'Ebony Squash' is having the highest Sales_cost_amount that is 3042396.91.
   
