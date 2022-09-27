@@ -3,11 +3,11 @@
  * Sample Dataset Contains the e-commerce Data of Amazon Company . In this project I have done the Exploratory Data Analysis(EDA) on e-commerce Data by using Python(Pandas, Seaborn and Matplotlib).
 
 
-# DATASET -
+## DATASET -
 
 * #### For Dataset, Please refer to : SALESDATA.xls file .
 
-# TOOLS USED -
+## TOOLS USED -
  
   ![download (3)](https://user-images.githubusercontent.com/111995863/190873058-7b0d8458-65fe-48ad-8140-335ce1790525.png)
    ![download (1)](https://user-images.githubusercontent.com/111995863/190873103-c0f39869-897e-427e-a344-bd9248cde2d5.png)
@@ -21,12 +21,12 @@
 
 
 
-# OUTLINE FOR DATA ANALYSIS -
+## OUTLINE FOR DATA ANALYSIS -
 #### * For Python EDA code file, Please refer to : E-commerce Data Analytics Using Python.html.
 #### * I have done all the documentation as well as Code inside this file.
  
 
-#  INSIGHTS -
+##  INSIGHTS -
  
 * There is positive relationship between Sales_Amount and Discount_amount , we can see the Discount_amount increase as Sales_amount increase.
 * Between Sales_cost_amount and Sales_amount there is positive relationship we can see sales_amount increases as sales_cost_amount increase.
